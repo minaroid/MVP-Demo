@@ -1,6 +1,5 @@
 # MVP-Demo
-MVP architecture demo
-
+This repository contains a detailed sample app that implements MVP architecture using Lifecycle-Aware Components.
 
 ### License
 ```
