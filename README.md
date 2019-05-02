@@ -17,7 +17,7 @@ This repository contains a detailed sample app that implements MVP architecture 
    See the License for the specific language governing permissions and
    limitations under the License.
 ```
-### Contributing to Android MVP Architecture
+### Contributing.
 All pull requests are welcome, make sure to follow the contribution guidelines when you submit pull request.
 1. Fork it!
 2. Checkout the development branch: `git checkout development`
